@@ -1,2 +1,3 @@
 new file created with some changes
 changed content
+changes to view in git bash
